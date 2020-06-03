@@ -1,6 +1,4 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,java,java-web,code-java,intellij+all
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,java,java-web,code-java,intellij+all
+.DS_Store
 
 ### Code-Java ###
 # Language Support for Java(TM) by Red Hat extension for Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=redhat.java
@@ -189,4 +187,3 @@ hs_err_pid*
 ## ignoring target file
 target/
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,java,java-web,code-java,intellij+all
