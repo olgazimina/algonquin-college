@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow|Roboto:400,300,500,300italic,400italic,500italic&subset=latin,cyrillic);
+@import url('../web_fonts/font_dolores.css');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-weight: 300;
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+h4{
+    font-weight: 600;
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+
+/****************************************************************************
+****************************************************************************/
+header {
+    font-family: 'Dolores';
+}
+
+#site_name {
+    font-size: 3em;
+}
+
+#site_call {
+    font-size: 2em;
+}
+
+/****************************************************************************
+****************************************************************************/
+.title_h2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.8em;
+    font-weight: 600;
+    /*line-height: 1.8em;*/
+}
+
+.edit_articles, .symbols, .price {
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.main_article, .read_more, .main_article_info {
+    font-size: 0.9em;
+}
+.article_container_info{
+    font-size: 77%;
+}
+.read_more_info{
+    font-size: 1.1em;
+}
+.article_package, .general_post{
+    font-weight: 300;
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+.article_package_info{
+    font-weight: 300;
+    font-size: 1.3em;
+    line-height: 1.4em;
+}
+.general_post_2_columns{
+    font-weight: 300;
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+
+/****************************************************************************
+****************************************************************************/
+.title_h3 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+.title_h4, .title_h4_selected_category{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+.side_list_item {
+    font-size: 0.8em;
+}
+.active_arrow{
+    font-size: 1.2em;
+}
+/****************************************************************************
+****************************************************************************/
+footer {
+    font-weight: 400;
+    font-size: 0.9em;
+}
